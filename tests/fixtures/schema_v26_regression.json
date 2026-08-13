@@ -1,0 +1,44 @@
+{
+  "arrays": {
+    "axis_birth_steps": "c2ec820389f0eadffde60852a4cbdade84ce0c20ca31eb2e076b4f7222d3c33c",
+    "axis_extension_events": "0fbc358a23348b73f84243449cfa209f87175660876fd87d0b1030f2cbeb4ee1",
+    "axis_parent_arc_lengths": "74127b98e2c25ab850fcfe93aa978fed84babbb2618bf9543298df87fba27c6c",
+    "axis_parent_ids": "a13ca93f329171b029b8c329df7b0b6993602a611bcadb2c32ca1175af517b0d",
+    "axis_parent_local_azimuths": "1bdbaa7ece93736951554c4705b5f7019d2076cfba46faba3e928caf41823b96",
+    "parent": "3c74d9bad80ebea1731897873ebe8bc336f9a5732c57e9d90d74a845cf00fd1b",
+    "position": "626dbbd35f1745caebd54b4209e308f064d245e75cf9e341a34363f3834b13ff",
+    "radius": "e40a3c3c77569791c79de93fa33108135c4bda2d8446104558417b794b1af32b"
+  },
+  "branch_sites_sha256": "52ac9cd0da69964c70c441f8a93ed1fcf0412122219b41e9167cc1167f3b8b5b",
+  "config": {
+    "branch_retry_mode": "single_trial",
+    "interactive_safety_cap": 100000,
+    "max_nodes": 100000,
+    "max_sampled_points": 100000,
+    "max_seconds_per_simulation": 0.0,
+    "nitrogen_concentration": 1.0,
+    "phosphorus_concentration": 1.0,
+    "potassium_concentration": 1.0,
+    "rain_water_input": 0.8,
+    "soil_water_background": 0.2,
+    "steps": 15,
+    "water_infiltration_depth": 6.0
+  },
+  "fixture_version": 1,
+  "master_seed": 20260617,
+  "schema_version": 26,
+  "scientific_result_field_count": 1133,
+  "scientific_result_sha256": "8f3e097ae5d5138bcc8570756a0ed6f99f2419b533d8313e9b7fb7cd9b646530",
+  "selected_metrics": {
+    "accepted_branches": 75,
+    "architecture_depth": 4.149272001085147,
+    "architecture_width": 3.2479097040806026,
+    "axis_count": 76,
+    "developmental_steps_completed": 15,
+    "sampled_point_count": 1451,
+    "stop_reason": "developmental_steps_complete",
+    "total_root_length": 44.82686322921389
+  },
+  "store_size": 1451,
+  "task_index": 49000
+}
