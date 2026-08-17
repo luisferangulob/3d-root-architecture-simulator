@@ -24,7 +24,7 @@ For scientific assumptions, equations, event ordering, and numerical details, se
 The validated release environment uses Python 3.14.5. Exact package versions from that environment are recorded in `requirements.txt`; test-only dependencies are recorded in `requirements-dev.txt`.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/luisferangulob/3d-root-architecture-simulator.git
 cd 3d-root-architecture-simulator
 
 python3 -m venv .venv
